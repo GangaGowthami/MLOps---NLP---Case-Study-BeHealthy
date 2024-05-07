@@ -13,16 +13,16 @@ The dataset consist of four files containing words in line separate format:
 - test_label
 
 
-# Q1. System design: Based on the above information, describe the KPI that the business should track.
-# Q2. System Design: Your company has decided to build an MLOps system. What advantages would you get by opting to build an MLOps system? 
-# Q3. System design: You must create an ML system that has the features of a complete production stack, from experiment tracking to automated model deployment and monitoring. For the given problem, create an ML system design (diagram). 
+### Q1. System design: Based on the above information, describe the KPI that the business should track.
+### Q2. System Design: Your company has decided to build an MLOps system. What advantages would you get by opting to build an MLOps system? 
+### Q3. System design: You must create an ML system that has the features of a complete production stack, from experiment tracking to automated model deployment and monitoring. For the given problem, create an ML system design (diagram). 
 
 The MLOps tools that you want to use are up to your judgement. You can use open-source tools, managed service tools or a hybrid. 
 You can use draw.io or any other convenient tool to create the architecture. You can refer to the module on “Designing Machine Learning Systems” for your understanding how to create an MLOps Architecture. 
 You can upload the design/diagram as an image in the PDF.
  
-# Q4. System design: After creating the architecture, please specify your reasons for choosing the specific tools you chose for the use case.
-# Q5. Workflow of the solution: 
+### Q4. System design: After creating the architecture, please specify your reasons for choosing the specific tools you chose for the use case.
+### Q5. Workflow of the solution: 
 You must specify the steps to be taken to build such a system end to end. 
 The steps should mention the tools used in each component and how they are connected with one another to solve the problem. 
 Broadly, the workflow should include the following. Be more comprehensive of each step that is involved here.
